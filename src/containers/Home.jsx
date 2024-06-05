@@ -1,7 +1,8 @@
 import React from "react";
-import {HeroTypeWritter} from '../components'
+import {HeroTypeWritter, HomeSocialLinks} from '../components'
 import {AnimatePresence,motion} from 'framer-motion'
-import {Hero} from "../assets/index.js"
+import {myProfile} from "../assets/index.js"
+import { Socials } from "../utils/helper.js";
 
 const Home = () => {
   return <>
@@ -26,6 +27,14 @@ const Home = () => {
     <p className="text-base text-texlight mt-6 text-center lg:text-left">
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, ipsam. Quo repellendus natus error maiores qui vel eos commodi animi voluptate labore, nesciunt quia facere sapiente. Omnis unde inventore recusandae.
     </p>
+    {/* Social Links */}
+    <div className="flex items-center justify center gap-12 mt-16">
+      <AnimatePresence>
+        {Socials && Socials.map((item,index)=>{
+            <HomeSocialLinks key={index} data={item} index={index}/>
+        })}
+      </AnimatePresence>
+    </div>
     </div>
     <div className="w-full h-full flex items-start justify-center lg:item-center">
       <motion.img
@@ -36,8 +45,8 @@ const Home = () => {
         duration:2,
         ease:"linear",
       }}
-      src = {Hero}
-      className="w-auto h-auto object-contain"
+      src = {myProfile}
+      className="w-72 h-auto object-contain"
       />
     </div>
     </div>
