@@ -21,7 +21,7 @@ const Home = () => {
       And I'm{" "}
       <HeroTypeWritter
       speed = {100}
-      words = {["a Developer..","an Youtuber..","a Freelancer.."]}
+      words = {["a Developer..","an Artist..","a Freelancer.."]}
       />
     </h2>
     <p className="text-base text-texlight mt-6 text-center lg:text-left">
@@ -30,11 +30,15 @@ const Home = () => {
     {/* Social Links */}
     <div className="flex items-center justify center gap-12 mt-16">
       <AnimatePresence>
-        {Socials && Socials.map((item,index)=>{
+        {Socials && Socials.map((item,index)=>(
             <HomeSocialLinks key={index} data={item} index={index}/>
-        })}
+        ))}
       </AnimatePresence>
     </div>
+    {/*Hire me link  */}
+    <a href='#' style = {{boxShadow:"inset 0px 0px 10px rgba(255,255,255,0.3 )"}} className="mt-12 border border-[rgba(255,255,255,0.3)] rounded-xl px-8 py-3 active:95 group hover:border-primary">
+      <p className="text-texLight group-hover:text-transparent group-hover:bg-clip-text group-hover:bg-gradient-to-r group-hover:from-primary group-hover:to-secondary">Hire Me</p>
+    </a>
     </div>
     <div className="w-full h-full flex items-start justify-center lg:item-center">
       <motion.img
