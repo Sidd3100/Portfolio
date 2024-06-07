@@ -3,6 +3,8 @@ import Header from './Header';
 import Home from "./Home"
 import ServiceCount from "./ServiceCount";
 import About from "./About";
+import Skills from "./Skills";
+import Projects from "./Projects";
 
 const App = () => {
   return (
@@ -11,6 +13,8 @@ const App = () => {
       <Home/>
       <ServiceCount/>
       <About/>
+      <Skills/>
+      <Projects/>
     </div>
   );
 };
