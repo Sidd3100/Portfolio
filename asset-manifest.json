@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.266b6d21.css",
-    "main.js": "/Portfolio/static/js/main.b9cbbc7d.js",
+    "main.css": "/Portfolio/static/css/main.7eb3ce79.css",
+    "main.js": "/Portfolio/static/js/main.83f83cc9.js",
     "static/media/Thumb-pixabay-clone-v2–1.png": "/Portfolio/static/media/Thumb-pixabay-clone-v2–1.283da6c31fa2c95ed90b.png",
     "static/media/Thumb-image-sharing-app-react-native-mar-23-updated.png": "/Portfolio/static/media/Thumb-image-sharing-app-react-native-mar-23-updated.fe8a59fd18b989b7aa68.png",
     "static/media/thumb-fullstack-socialmedia-app-react-sanity.png": "/Portfolio/static/media/thumb-fullstack-socialmedia-app-react-sanity.9bb73b25697ca2c1c519.png",
@@ -17,11 +17,11 @@
     "static/media/thumb-fresh0juics-tweenmax.jpg": "/Portfolio/static/media/thumb-fresh0juics-tweenmax.fa4a7ff6d0b7210142fc.jpg",
     "static/media/about.webp": "/Portfolio/static/media/about.f7b4ae1bc971de139af7.webp",
     "index.html": "/Portfolio/index.html",
-    "main.266b6d21.css.map": "/Portfolio/static/css/main.266b6d21.css.map",
-    "main.b9cbbc7d.js.map": "/Portfolio/static/js/main.b9cbbc7d.js.map"
+    "main.7eb3ce79.css.map": "/Portfolio/static/css/main.7eb3ce79.css.map",
+    "main.83f83cc9.js.map": "/Portfolio/static/js/main.83f83cc9.js.map"
   },
   "entrypoints": [
-    "static/css/main.266b6d21.css",
-    "static/js/main.b9cbbc7d.js"
+    "static/css/main.7eb3ce79.css",
+    "static/js/main.83f83cc9.js"
   ]
 }
