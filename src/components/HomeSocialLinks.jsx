@@ -13,7 +13,7 @@ const HomeSocialLinks = ({data,index}) => {
       <AnimatePresence>
         {isHovered &&(<motion.div className={`absolute inset-1 blur-md bg-gradient-to-br from-primary to-secondary -z-10`}>
 
-</motion.div>) }
+          </motion.div>) }
         
         <div className="w-full h-full rounded-full bg-bgPrimary flex items-center justify-center">
           <data.Icon className={`text-texlight`}/>
