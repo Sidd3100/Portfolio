@@ -37,17 +37,17 @@ const App = () => {
 
         <div className="w-full grid grid-cols-1 lg:grid-cols-3 mt-12">
             <p className="text-texlight text-center">
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magni excepturi suscipit recusandae aperiam quo placeat adipisci asperiores iusto tempora? Quasi velit atque dignissimos soluta minima delectus doloribus maxime itaque praesentium!
+              I am open to work on new projects and collaborations. Feel free to contact me.
             </p>
             <p className="text-texlight text-center">
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magni excepturi suscipit recusandae aperiam quo placeat adipisci asperiores iusto tempora? Quasi velit atque dignissimos soluta minima delectus doloribus maxime itaque praesentium!
+              Let's create something amazing together!
             </p>
             <div className="w-full flex flex-col items-center justify-center gap-3">
               <p className="text-texlight text-center">
                 siddraimb@gmail.com
               </p>
               <p className="text-texlight text-center">
-                +91 9876543210
+                +91 6387566061
               </p>
               <a href = "#" >
                 <p className = "text-primary text-center">Hire Me</p>
