@@ -1,27 +1,28 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.7eb3ce79.css",
-    "main.js": "/Portfolio/static/js/main.83f83cc9.js",
+    "main.js": "/Portfolio/static/js/main.4f0e79bf.js",
     "static/media/Thumb-pixabay-clone-v2–1.png": "/Portfolio/static/media/Thumb-pixabay-clone-v2–1.283da6c31fa2c95ed90b.png",
     "static/media/Thumb-image-sharing-app-react-native-mar-23-updated.png": "/Portfolio/static/media/Thumb-image-sharing-app-react-native-mar-23-updated.fe8a59fd18b989b7aa68.png",
+    "static/media/emowell.png": "/Portfolio/static/media/emowell.1275826c8093bbf52c36.png",
     "static/media/thumb-fullstack-socialmedia-app-react-sanity.png": "/Portfolio/static/media/thumb-fullstack-socialmedia-app-react-sanity.9bb73b25697ca2c1c519.png",
     "static/media/hero.png": "/Portfolio/static/media/hero.24f47e40036e2273e116.png",
     "static/media/Thumb-openai-withreactjs.png": "/Portfolio/static/media/Thumb-openai-withreactjs.7a55325f78f1d968b617.png",
     "static/media/Thumb-codepen-clone.png": "/Portfolio/static/media/Thumb-codepen-clone.8d2b382f47841d983f02.png",
     "static/media/thumb_restaurant_app_mar22.png": "/Portfolio/static/media/thumb_restaurant_app_mar22.e9f4f9a8c04ea8d4c939.png",
+    "static/media/about1.jpg": "/Portfolio/static/media/about1.e9dd303a70d89385ca21.jpg",
     "static/media/Thumb-expo-chat-app.png": "/Portfolio/static/media/Thumb-expo-chat-app.6c76d373ff509124c44e.png",
     "static/media/profile-pic.png": "/Portfolio/static/media/profile-pic.fae13555e7d26e464a0e.png",
     "static/media/leaf2.png": "/Portfolio/static/media/leaf2.659264fac53756a980a1.png",
     "static/media/Leaf.png": "/Portfolio/static/media/Leaf.1073dfdd6f893dc9cb0f.png",
     "static/media/thumb-portfolio-firebase.jpeg": "/Portfolio/static/media/thumb-portfolio-firebase.b20965ddccf3c849d6a8.jpeg",
     "static/media/thumb-fresh0juics-tweenmax.jpg": "/Portfolio/static/media/thumb-fresh0juics-tweenmax.fa4a7ff6d0b7210142fc.jpg",
-    "static/media/about.webp": "/Portfolio/static/media/about.f7b4ae1bc971de139af7.webp",
     "index.html": "/Portfolio/index.html",
     "main.7eb3ce79.css.map": "/Portfolio/static/css/main.7eb3ce79.css.map",
-    "main.83f83cc9.js.map": "/Portfolio/static/js/main.83f83cc9.js.map"
+    "main.4f0e79bf.js.map": "/Portfolio/static/js/main.4f0e79bf.js.map"
   },
   "entrypoints": [
     "static/css/main.7eb3ce79.css",
-    "static/js/main.83f83cc9.js"
+    "static/js/main.4f0e79bf.js"
   ]
 }
