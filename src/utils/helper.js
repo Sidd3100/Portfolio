@@ -87,13 +87,13 @@ export const ProjectsData = [
     id: `codepen-${Date.now()}`,
     name: "SketchSymphony",
     imgSrc: {},
-    gitURL: "https://github.com/Sidd3100/SketchSymphony",
+    gitURL: "https://github.com/Sidd3100/SketchSymphony-deploy",
   },
   {
     id: `openai-${Date.now()}`,
     name: "EmoWell",
     imgSrc: emowell,
-    gitURL: "https://github.com/Emowell",
+    gitURL: "https://github.com/Madhav-bansal013/Emowell",
   },
   
 
