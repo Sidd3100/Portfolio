@@ -1,7 +1,7 @@
 export { default as Hero } from "./img/hero.png";
 export { default as Leaf1 } from "./img/Leaf.png";
 export { default as Leaf2 } from "./img/leaf2.png";
-export { default as about } from "./img/about.webp";
+export { default as about } from "./img/about1.jpg";
 export {default as myProfile} from "./img/profile-pic.png"
 
 // projects
@@ -15,3 +15,4 @@ export { default as PixabayClone } from "./img/Project/Thumb-pixabay-clone-v2–
 export { default as FreshJuiceUI } from "./img/Project/thumb-fresh0juics-tweenmax.jpg";
 export { default as SocialMedia } from "./img/Project/thumb-fullstack-socialmedia-app-react-sanity.png";
 export { default as PortfolioFirebase } from "./img/Project/thumb-portfolio-firebase.jpeg";
+export { default as emowell} from "./img/Project/emowell.png";

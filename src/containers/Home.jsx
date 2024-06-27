@@ -25,7 +25,7 @@ const Home = () => {
       />
     </h2>
     <p className="text-base text-texlight mt-6 text-center lg:text-left">
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, ipsam. Quo repellendus natus error maiores qui vel eos commodi animi voluptate labore, nesciunt quia facere sapiente. Omnis unde inventore recusandae.
+    I'm a dedicated web developer specializing in the MERN stack. With a keen eye for detail and a passion for creating dynamic, user-friendly web applications. My strong communication skills ensure smooth collaboration and effective project management. Explore my work and see how I can bring your ideas to life!
     </p>
     {/* Social Links */}
     <div className="flex items-center justify center gap-12 mt-16">

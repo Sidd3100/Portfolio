@@ -26,24 +26,30 @@ const Skills = () => {
       <div className="w-full px-8 flex flex-col gap-4 items-start justify-start">
       <p classname="text-transparent bg-clip-text bg-gradient-to-r from-primary to-secondary capitalize text-xl font-serif tracking-widest">Work Experience</p>
 
-        <p className="text-texlight text-base tracking-wide text-justify">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem nobis fugit sequi omnis similique reiciendis, et at expedita vitae, dolores tempore architecto tenetur recusandae enim praesentium! Et ullam itaque exercitationem.
-        </p>
-        <p className="text-texlight text-base tracking-wide text-justify">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem nobis fugit sequi omnis similique reiciendis, et at expedita vitae, dolores tempore architecto tenetur recusandae enim praesentium! Et ullam itaque exercitationem.
-        </p>
-        <p className="text-texlight text-base tracking-wide text-justify">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem nobis fugit sequi omnis similique reiciendis, et at expedita vitae, dolores tempore architecto tenetur recusandae enim praesentium! Et ullam itaque exercitationem.
-        </p>
+        <li className="text-texlight text-base tracking-wide text-justify">
+        SketchSymphony
+<li>Role: Full Stack Developer</li>
+Description: I developed SketchSymphony, a dynamic platform designed to connect artists with potential buyers. This website allows artists to showcase their work, while buyers can easily browse and purchase art pieces. The project involved creating a responsive user interface with React, managing user data with MongoDB, and implementing secure transactions with Express and Node.js.
+        </li>
+        <li className="text-texlight text-base tracking-wide text-justify">
+        Online Cake Order "(Ongoing)"
+<li>Role: Full Stack Developer</li>
+Description: I am currently working on an exciting full stack project aimed at simplifying online cake ordering. This project involves building a user-friendly website where customers can browse and order cakes, track their orders, and receive updates. I am utilizing the MERN stack to develop a seamless and efficient ordering process, ensuring a delightful user experience from start to finish.
+        </li>
+        <li className="text-texlight text-base tracking-wide text-justify">
+        EmoWell
+<li>Role: Backend Developer</li>
+Description: As a backend developer for the Emowell project, I contributed to creating a platform dedicated to the mental wellness of students. Emowell offers resources, tools, and a supportive community for students to improve their mental health. My responsibilities included developing and maintaining server-side logic, ensuring data integrity and security, and integrating various APIs to enhance functionality.
+        </li>
       </div>
       {/* image */}
       <div className="w-full flex flex-col gap-4 items-center justify-center px-8">
          <SkillCard skill={"HTML-5"} percentage={"95%"} color={"#FF3F3F"} move={true}/>
-         <SkillCard skill={"CSS-3"} percentage={"75%"} color={"#008FFF"} move={false}/> 
-         <SkillCard skill={"HTML-5"} percentage={"95%"} color={"#FF3F3F"} move={true}/>
-         <SkillCard skill={"CSS-3"} percentage={"75%"} color={"#008FFF"} move={false}/> 
-         <SkillCard skill={"HTML-5"} percentage={"95%"} color={"#FF3F3F"} move={true}/>
-         <SkillCard skill={"CSS-3"} percentage={"75%"} color={"#008FFF"} move={false}/> 
+         <SkillCard skill={"TailwindCSS"} percentage={"75%"} color={"#8DB6CE"} move={false}/> 
+         <SkillCard skill={"Javascript"} percentage={"80%"} color={"#F0DB4F"} move={true}/>
+         <SkillCard skill={"ReactJs"} percentage={"75%"} color={"#61DBFB"} move={false}/> 
+         <SkillCard skill={"MongoDB"} percentage={"60%"} color={"#4DB33D"} move={true}/>
+         <SkillCard skill={"NodeJs"} percentage={"70%"} color={"#00684A"} move={false}/> 
 
         </div>
       </div>

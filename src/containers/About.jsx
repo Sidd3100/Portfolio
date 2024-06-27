@@ -32,13 +32,15 @@ const About = () => {
       {/* content */}
       <div className="w-full px-8 flex flex-col gap-4 items-start justify-start">
         <p className="text-texlight text-base tracking-wide text-justify">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem nobis fugit sequi omnis similique reiciendis, et at expedita vitae, dolores tempore architecto tenetur recusandae enim praesentium! Et ullam itaque exercitationem.
+        My journey into web development began with a fascination for technology and a desire to understand how things work behind the scenes. Over the years, I have honed my skills in various programming languages and frameworks, with a particular focus on the MERN stack. 
         </p>
         <p className="text-texlight text-base tracking-wide text-justify">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem nobis fugit sequi omnis similique reiciendis, et at expedita vitae, dolores tempore architecto tenetur recusandae enim praesentium! Et ullam itaque exercitationem.
+       <li> Frontend Development: Crafting beautiful and responsive user interfaces using React. </li>
+          <li> Backend Development: Building secure and efficient server-side applications with Node.js and Express.</li> 
+           <li> Database Management: Designing and managing databases with MongoDB for optimal data storage and retrieval.</li> 
         </p>
         <p className="text-texlight text-base tracking-wide text-justify">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem nobis fugit sequi omnis similique reiciendis, et at expedita vitae, dolores tempore architecto tenetur recusandae enim praesentium! Et ullam itaque exercitationem.
+        My goal is to deliver high-quality solutions that meet the expectations and provide real value to users.
         </p>
       </div>
       </div>

@@ -10,7 +10,7 @@ import {
   FaYoutube,
 } from "react-icons/fa6";
 import {
-  ChatApp,
+  emowell,
   CodePenClone,
   FreshJuiceUI,
   
@@ -26,13 +26,13 @@ export const Socials = [
   {
     id: `linkedin-${Date.now()}`,
     Icon: FaLinkedinIn,
-    uri: "",
+    uri: "https://www.linkedin.com/in/siddhartha-rai-743aa3279/",
     color: "#0072b1",
   },
   {
     id: `github-${Date.now()}`,
     Icon: FaGithub,
-    uri: "",
+    uri: "https://github.com/Sidd3100",
     color: "#fff",
   },
   {
@@ -79,20 +79,20 @@ export const Menus = [
 export const ProjectsData = [
   {
     id: `food-${Date.now()}`,
-    name: "Single Food Restaurant",
-    imgSrc: FreshJuiceUI,
-    gitURL: "https://github.com/Sidd3100/",
+    name: "Online Cake Order",
+    imgSrc: {},
+    gitURL: "https://github.com/Sidd3100/mern-cake-shop-1",
   },
   {
     id: `codepen-${Date.now()}`,
     name: "SketchSymphony",
-    imgSrc: CodePenClone,
+    imgSrc: {},
     gitURL: "https://github.com/Sidd3100/SketchSymphony",
   },
   {
     id: `openai-${Date.now()}`,
     name: "EmoWell",
-    imgSrc: ChatApp,
+    imgSrc: emowell,
     gitURL: "https://github.com/Emowell",
   },
   
